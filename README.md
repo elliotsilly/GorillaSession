@@ -3,6 +3,7 @@ A mod that logs your gameplay.
 
 **Config!**
 There is some color config for this mod! All you need is a hex code! Go check it out!!!
+
 ![image](https://github.com/user-attachments/assets/dbc8b65c-abd3-4423-9ee2-3be4526c3a36)
 
 
