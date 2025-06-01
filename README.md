@@ -1,4 +1,4 @@
-# GorillaSession
+# GorillaSession ![all](https://img.shields.io/github/downloads/elliotsilly/GorillaSession/total)
 A mod that logs your gameplay.
 
 ![gorillasession](https://github.com/user-attachments/assets/77786160-da13-4760-b817-e6636eb2608b)
