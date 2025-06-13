@@ -7,4 +7,5 @@ A mod that logs your gameplay time.
 **Config!**
 There is some color config for this mod! All you need is a hex code! Go check it out!!!
 
-![image](https://github.com/user-attachments/assets/dbc8b65c-abd3-4423-9ee2-3be4526c3a36)
+
+![image](https://github.com/user-attachments/assets/cf6dc74f-ffda-479a-9359-baf065a7115b)
