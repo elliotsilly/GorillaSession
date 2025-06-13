@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using BepInEx.Configuration;
 using System;
 using System.Collections;
@@ -49,9 +49,9 @@ namespace GorillaSession
             Color parsedColor = ParseHexColor(textColorHexConfig.Value);
             text.color = parsedColor;
 
-            textObject.transform.position = new Vector3(-62.8267f, 12.3946f, -82.0083f);
+            textObject.transform.position = new Vector3(-63.7395f, 12.2092f, - 81.8738f);
             textObject.transform.localScale = new Vector3(0.0364f, 0.0418f, 0.1f);
-            textObject.transform.rotation = Quaternion.Euler(0.8469f, 57.1719f, 0f);
+            textObject.transform.rotation = Quaternion.Euler(0.8469f, 52.4483f, 0f);
 
             StartCoroutine(UpdateDisplay());
         }
