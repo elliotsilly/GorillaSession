@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace GorillaSession
 {
-    [BepInPlugin("com.elliot.gorillasession", "GorillaSession", "1.0.0")]
+    [BepInPlugin("com.elliot.gorillasession", "GorillaSession", "1.0.1")]
     public class Main : BaseUnityPlugin
     {
         private float sessionStartTime;
